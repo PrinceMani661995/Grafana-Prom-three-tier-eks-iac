@@ -1,4 +1,4 @@
-# three-tier-eks-iac
+# Designed and deployed a production-grade Kubernetes cluster, integrating Helm charts for streamlined application deployment and service discovery. Implemented Prometheus and Grafana for real-time monitoring, and developed a custom Grafana dashboard to visualize key performance metrics and system health.
 
 # Prerequisite 
 
